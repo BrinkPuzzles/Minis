@@ -1,0 +1,19 @@
+NaN, "Not a number."
+
+It is a float. Is NaN "not lower," "not higher," and "not equal" to any number? You type x = float("NaN") and run the code.
+
+yes!
+
+But what does it mean?
+
+You are invited onto the case and start poring over old evidence. Months later, you haven't cracked it but at least no one is searching the docks, or pirate-themed rides at the amusement park.
+
+One night you're going through the evidence locker and you catch sight of a safe tagged with the case number. It was opened long ago by serving a warrant to the manufacturer. It turned out to be empty. "We still have this thing?"
+
+You walk over. It has a digital readout and a keypad. "Not a number..." The only key that's not a number is "E" for enter. You push it four times.
+
+Something scrolls across the screen:
+
+515 Medford St
+
+It's only a few blocks away. You run downstairs.

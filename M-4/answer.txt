@@ -1,0 +1,1 @@
+The bits of 7 and 8 are opposite from one another: 1000 and 0111. You can zero them out with an AND operation. 8 & 7 is 0.
